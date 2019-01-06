@@ -1,0 +1,7 @@
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\bin\Debug\Word_unscrambler.exe.config
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\bin\Debug\Word_unscrambler.exe
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\bin\Debug\Word_unscrambler.pdb
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\obj\Debug\Word_unscrambler.csprojAssemblyReference.cache
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\obj\Debug\Word_unscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\obj\Debug\Word_unscrambler.exe
+C:\Users\Hayser\Desktop\Word_unscrambler\Word_unscrambler\obj\Debug\Word_unscrambler.pdb
